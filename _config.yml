@@ -1,0 +1,6 @@
+title: "Shay's Hearth"
+description: "Handcrafted Artisanal Goods"
+theme: null
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
