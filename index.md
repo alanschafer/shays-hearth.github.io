@@ -7,9 +7,8 @@ title: "Shay's Hearth | Handcrafted Artisanal Goods"
 
 Crafted with care, patience, and warm intention. Every piece is made by hand to bring comfort, quality, and timeless artistry into your home.
 
-### Our Collection
+### Our Process
 
-*   **Handmade Goods** – Carefully crafted artisan products.
-*   **Custom Orders** – Tailored creations for special spaces and occasions.
+We create non-food artisan products using premium materials, focusing on small-batch craftsmanship and simple elegance. 
 
-*Stay tuned as we prepare our seasonal offerings.*
+Explore our current collection using the link above.
